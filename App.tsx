@@ -233,6 +233,9 @@ const App: React.FC = () => {
             {renderContent()}
           </div>
         </main>
+        <footer className="text-center p-4 text-gray-500 text-sm">
+        <p>Powered by Soham & Sanika</p>
+      </footer>
       </div>
     </div>
   );
